@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../apphospital\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\ROOT22\PycharmProjects\apphospital\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
